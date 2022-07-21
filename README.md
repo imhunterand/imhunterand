@@ -39,7 +39,7 @@ I have many soft skills and other important qualities which I developed through 
 ![imhunterand's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imhunterand&hide_border=true&theme=redical)
 
 ## 🤝🏻 Connect with Me!
-[![Email: justcallmeethom@wearehackerone.com](https://img.shields.io/badge/-justcallmeethom@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:justcallmeethom@wearehackerone.com)
+[![Email: imhunterand@wearehackerone.com](https://img.shields.io/badge/-imhunterand@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:justcallmeethom@wearehackerone.com)
 [![LinkedIn: ANDRI](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)&nbsp;
 [![Instagram: Follow ANDRI](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wearethoms)&nbsp;
 [![Telegram: ANDRI](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/imhunterand)](https://t.me/kucing0822)&nbsp;
