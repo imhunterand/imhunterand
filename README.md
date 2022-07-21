@@ -24,7 +24,7 @@ I have many soft skills and other important qualities which I developed through 
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
 ## 📊 Top Repositories
-[![InstaPorts](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=instaports&show_icons=true&theme=radical)](https://github.com/imhunterand/instaports) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=faceports&show_icons=true&theme=radical)](https://github.com/imhunterand/faceports)
+[![InstaPorts](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=log4j-bash&show_icons=true&theme=radical)](https://github.com/imhunterand/log4j-bash) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=huntersub&show_icons=true&theme=radical)](https://github.com/imhunterand/huntersub)
 
 ## 📈 Github Stats
   
