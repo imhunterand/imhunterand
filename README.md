@@ -1,5 +1,3 @@
-## 📊 Top Repositories
-[![InstaPorts](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=huntersub&show_icons=true&theme=radical)](https://github.com/imhunterand/huntersub) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=PenetrationTesterRE&show_icons=true&theme=radical)](https://github.com/imhunterand/PenetrationTesterRE)
 
 
 <a href="https://github.com/imhunterand/"><img src="https://github.com/imhunterand/imhunterand/blob/main/logo300.png" width="519" height="129"/></a>
