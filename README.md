@@ -19,4 +19,8 @@
 
 ## 🤝🏻 Connect with Me!
 [![Email: imhunterand@wearehackerone.com](https://img.shields.io/badge/-imhunterand@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:imhunterand@wearehackerone.com)
+[![Twitter: Follow @imhunterand](https://img.shields.io/twitter/follow/imhunterand?style=social)](https://twitter.com/imhunterand)
+[![Instagram: Follow Imhunterand](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wearethoms)&nbsp;
+[![LinkedIn: ANDRI](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrimuda)](https://www.linkedin.com/in/andrimuda)&nbsp;
+
 ---
