@@ -25,6 +25,6 @@
 [![Snyk: imhunerand](https://img.shields.io/badge/-snyk-E4405F?style=flat&logo=snyk&logoColor=white&link=https://app.snyk.io/org/imhunterand/)](https://app.snyk.io/org/imhunterand/)&nbsp;
 [![Google: imhunerand](https://img.shields.io/badge/-google-E4405F?style=flat&logo=google&logoColor=white&link=https://bughunters.google.com/profile/702cda82-b10f-4d6c-b509-65434bd89b15)](https://bughunters.google.com/profile/702cda82-b10f-4d6c-b509-65434bd89b15)&nbsp;
 [![Hackerone: imhunerand](https://img.shields.io/badge/-hackerone-E4405F?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/semprul_edan)](https://hackerone.com/semprul_edan)&nbsp;
-
+[![WhatsApp: imhunerand](https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/+6282113409538)](https://wa.me/+6282113409538)&nbsp;
 
 ---
