@@ -18,6 +18,6 @@
 ![imhunterand's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imhunterand&hide_border=true&theme=redical)
 
 ## 🤝🏻 Connect with Me!
-[![Email: imhunterand@cyberservices.com](https://img.shields.io/badge/-imhunterand@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:imhunterand@wearehackerone.com)
+[![Email: imhunterand@cyberservices.com](https://img.shields.io/badge/-imhunterand@cyberservices.com-D14836?style=flat&logo=Github&logoColor=white)](mailto:imhunterand@wearehackerone.com)
 [![Twitter: Follow @imhunterand](https://img.shields.io/twitter/follow/imhunterand?style=social)](https://twitter.com/imhunterand)
 ---
