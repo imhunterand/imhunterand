@@ -10,12 +10,6 @@
   <img width="39%" src="https://raw.githubusercontent.com/streghstreek/streghstreek/main/fix.png" alt="Fix All The Bugs" />
 </p>
 
-| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=imhunterand&hide_border=true&theme=radical">
-| ------------- |
-
----
-
-![imhunterand's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imhunterand&hide_border=true&theme=redical)
 
 ## 🤝🏻 Connect with Me!
 [![Email: imhunterand@cyberservices.com](https://img.shields.io/badge/-imhunterand@cyberservices.com-D14836?style=flat&logo=Github&logoColor=white)](mailto:imhunterand@wearehackerone.com)
