@@ -14,7 +14,9 @@
 ## 🤝🏻 Connect with Me!
 [![Email: imhunterand@cyberservices.com](https://img.shields.io/badge/-imhunterand@cyberservices.com-D14836?style=flat&logo=Github&logoColor=white)](mailto:imhunterand@wearehackerone.com)
 [![Twitter: Follow @imhunterand](https://img.shields.io/twitter/follow/imhunterand?style=social)](https://twitter.com/imhunterand)
-[![Medium: Follow @imhunterand](https://img.shields.io/badge/Medium-blue?style=flat&logo=linkedin&labelColor=blue)](https://pwn0sec.medium.com/)
+[![Medium: Follow @imhunterand](https://img.shields.io/badge/Medium-blue?style=flat&logo=medium&labelColor=blue)](https://pwn0sec.medium.com/)
+[![Hackerearth: Follow @imhunterand](https://img.shields.io/badge/hackerearth-red?style=flat&logo=hackerearth&labelColor=blue)](https://www.hackerearth.com/@imhunterand)
+[![GoogleVRP: Follow @imhunterand](https://img.shields.io/badge/GoogleVRP-purple?style=flat&logo=google&labelColor=red)](https://bughunters.google.com/profile/702cda82-b10f-4d6c-b509-65434bd89b15/awards)
 ---
 [![Stargazer](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
