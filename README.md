@@ -14,6 +14,7 @@
 ## 🤝🏻 Connect with Me!
 [![Email: imhunterand@cyberservices.com](https://img.shields.io/badge/-imhunterand@cyberservices.com-D14836?style=flat&logo=Github&logoColor=white)](mailto:imhunterand@wearehackerone.com)
 [![Twitter: Follow @imhunterand](https://img.shields.io/twitter/follow/imhunterand?style=social)](https://twitter.com/imhunterand)
+[![Medium: Follow @imhunterand](https://img.shields.io/badge/Medium-blue?style=flat&logo=linkedin&labelColor=blue)](https://pwn0sec.medium.com/)
 ---
 [![Stargazer](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
