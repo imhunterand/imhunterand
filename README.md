@@ -87,6 +87,12 @@
   <a href="https://github.com/imhunterand?tab=repositories" target="_blank"><img alt="Top Source" title="Top Source" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <p align="left">
+	
+<p align="left">
+  <a href="https://github.com/imhunterand">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhunterand&theme=material-palenight&mode=weekly&card_width=500" alt="imhunterand GitHub streak"/>
+  </a>
+</p>
   
 [![Vulnerability Projects](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=ApachSAL&border_color=FF4233&bg_color=0D1117&title_color=C9D1D9&text_color=FF338A&icon_color=FF4233)](https://github.com/imhunterand/ApachSAL)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=imhunterand&repo=subton&border_color=FF4233&bg_color=0D1117&title_color=C9D1D9&text_color=FF338A&icon_color=FF4233)](https://github.com/imhunterand/subton)
@@ -95,13 +101,6 @@
 
 </p>
 
-
-
-<p align="left">
-  <a href="https://github.com/imhunterand">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhunterand&theme=material-palenight&mode=weekly&card_width=500" alt="imhunterand GitHub streak"/>
-  </a>
-</p>
 
 <p align="left">
   <a href="https://github.com/imhunterand">
