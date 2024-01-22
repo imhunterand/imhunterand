@@ -27,7 +27,7 @@
 	<a href="https://github.com/imhunterand/CS2-DMA-PROJECT/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/imhunterand/imhunterand?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
   </a>
-	<a href="https://discord.com/servers/1141467097818472478">
+	<a href="https://discord.gg/pwn0sec">
 		<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
