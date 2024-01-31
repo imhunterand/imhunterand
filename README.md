@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/catppuccin/stargazers">
+	<a href="https://github.com/pwn0sec/PwnXSS">
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/imhunterand?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
   </a>
 	<a href="https://github.com/imhunterand/CS2-DMA-PROJECT/releases/latest">
