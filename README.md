@@ -67,6 +67,12 @@
 </div>
 
 
+## 
+<p align="center">
+  <img width="48%" src="https://i.kym-cdn.com/photos/images/original/001/209/715/032.png" alt="Hack All The Things" />
+  <img width="48%" src="https://raw.githubusercontent.com/streghstreek/streghstreek/main/fix.png" alt="Fix All The Bugs" />
+</p>
+
 
 ## 
   <p align="center">
