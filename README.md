@@ -18,18 +18,16 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/pwn0sec/PwnXSS">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/imhunterand?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-	<a href="https://github.com/imhunterand/CS2-DMA-PROJECT/releases/latest">
-		<img alt="Releases" src="https://img.shields.io/github/release/catppuccin/catppuccin.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
-  </a>
-	<a href="https://github.com/imhunterand/CS2-DMA-PROJECT/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/imhunterand/imhunterand?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-	<a href="https://discord.gg/pwn0sec">
-		<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
-  </a>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+
+<p align="center">
+  <a href="https://discord.gg/pwn0sec"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pwn0sec"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/imhunterand"><img alt="Github Sponsor" title="Github Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://github.com/imhunterand?tab=repositories&sort=ApachSAL">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imhunterand?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/imhunterand"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/imhunterand?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
 </p>
 
 <div align="center">
