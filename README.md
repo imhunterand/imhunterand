@@ -27,6 +27,7 @@
 <a href="https://github.com/imhunterand?tab=repositories&sort=ApachSAL">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imhunterand?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/imhunterand"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/imhunterand?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+	   <a href="https://github.com/imhunterand.gpg"><img alt="PGP" title="PGP" src="https://img.shields.io/badge/pgp-0xB3480D26DD5A633A-grey?style=for-the-badge&logo=gitlab"/></a
  </p>
 </p>
 
