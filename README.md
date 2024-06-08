@@ -51,7 +51,7 @@
 <br/>
 <img src="https://raw.githubusercontent.com/imhunterand/imhunterand/main/.assets/image/fixallthebugs.png" width="500" /><br/>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=imhunterand&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=imhunterand&theme=buddhism&rank=-" align="center"/>
 <br/><br/>
 <p align="center">
 <p align="center">
